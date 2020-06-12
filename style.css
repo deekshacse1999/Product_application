@@ -1,0 +1,21 @@
+.input
+{
+	padding: 12px;
+}
+.label
+{
+	margin-left: 35%;
+}
+.heading span
+{
+	margin-left: 40%;
+	border-bottom: 2px solid black;
+}
+.container
+{
+	border: 2px solid black;
+	width: 50%;
+	padding-bottom: 20px;
+	margin-left: 20%;
+	padding-right: 10%;
+}
